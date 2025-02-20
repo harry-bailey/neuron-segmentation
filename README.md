@@ -1,6 +1,9 @@
 # Neuron Segmentation
 
 This project contains a collection of Jupyter notebooks for performing semantic segmentation on neuron microscopy datasets in both 3D and 2D, using U-Net and ViT based models.
+
+![Segmentation example](example.png)
+
 ## Overview:
 
 Neuron segmentation is a challenging task due to the branch-like structure of dendrites and axons, which makes it difficult to accurately delineate neurons. In this project, I compare the following models:
